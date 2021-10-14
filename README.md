@@ -1,4 +1,4 @@
-# EMOCEAN - The emotion Classification App
+# EMOCEAN - The Emotion Classification App
 An end-to-end NLP project, Emocean aims at projecting an accurate measure of the emotions that are underlying within any text input into the app.
 
 The git repository for the same can be found at: https://github.com/YoPro02/nlp-proj
